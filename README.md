@@ -8,7 +8,7 @@ A Cavalry script that scales selected layers proportionally to the width of the 
 
 ## Install
 
-1. Download [FitToCompWidth.jsc](FitToCompWidth.jsc) from this repository.
+1. Download [FitToCompWidth.jsc](https://github.com/MaxsonRichards/FitToCompWidth/releases/download/v1.0/FitToCompWidth.jsc) from the v1.0 release.
 2. In Cavalry, open **Scripts > Show Scripts Folder** and copy `FitToCompWidth.jsc` into that folder.
 3. Run **Scripts > FitToCompWidth** in Cavalry.
 
